@@ -1,20 +1,116 @@
 {
-"tareas" :[
-    {
-        "id" : "1",
-        "nombre" : "Estudiar",
-        "completado" : false
-    } ,
-    {
-        "id" : "2",
-        "nombre" : "Estudiar",
-        "completado" : false
-    }   
-
-]
-
+    "date": "2025-07-28",
+    "employers": [
+        {
+            "id": 0,
+            "name": "Benjamin",
+            "surname": "Silva",
+            "email": "BeSi@gmail.com",
+            "number": 3432222231,
+            "hour": "06:00hs a 14:00hs",
+            "dni": 44444444,
+            "group": "B",
+            "direccion": "Los lirios 203"
+        },
+        {
+            "id": 1,
+            "name": "Lucia",
+            "surname": "Ramirez",
+            "email": "LuRa@gmail.com",
+            "number": 3432222222,
+            "hour": "06:00hs a 14:00hs",
+            "dni": 44444444,
+            "group": "B",
+            "direccion": "Los lirios 203"
+        },
+        {
+            "id": 2,
+            "name": "Mateo",
+            "surname": "Gonzalez",
+            "email": "MaGo@gmail.com",
+            "number": 3432222223,
+            "hour": "14:00hs a 22:00hs",
+            "dni": 44444444,
+            "group": "A",
+            "direccion": "Los lirios 203"
+        },
+        {
+            "id": 3,
+            "name": "Sofia",
+            "surname": "Herrera",
+            "email": "SoHe@gmail.com",
+            "number": 3432222224,
+            "hour": "14:00hs a 22:00hs",
+            "dni": 44444444,
+            "group": "A",
+            "direccion": "Los lirios 203"
+        },
+        {
+            "id": 4,
+            "name": "Tomas",
+            "surname": "Diaz",
+            "email": "ToDi@gmail.com",
+            "number": 3432222225,
+            "hour": "14:00hs a 22:00hs",
+            "group": "B",
+            "dni": 44444444,
+            "direccion": "Los lirios 203"
+        },
+        {
+            "id": 5,
+            "name": "Valentina",
+            "surname": "Cruz",
+            "email": "VaCr@gmail.com",
+            "number": 3432222226,
+            "hour": "14:00hs a 22:00hs",
+            "group": "B",
+            "dni": 44444444,
+            "direccion": "Los lirios 203"
+        },
+        {
+            "id": 6,
+            "name": "Julian",
+            "surname": "Torres",
+            "email": "JuTo@gmail.com",
+            "number": 3432222227,
+            "hour": "22:00hs a 06:00hs",
+            "group": "A",
+            "dni": 44444444,
+            "direccion": "Los lirios 203"
+        },
+        {
+            "id": 7,
+            "name": "Camila",
+            "surname": "Rojas",
+            "email": "CaRo@gmail.com",
+            "number": 3432222228,
+            "hour": "22:00hs a 06:00hs",
+            "group": "A",
+            "dni": 44444444,
+            "direccion": "Los lirios 203"
+        },
+        {
+            "id": 8,
+            "name": "Emilio",
+            "surname": "Navarro",
+            "email": "EmNa@gmail.com",
+            "number": 3432222229,
+            "hour": "06:00hs a 14:00hs",
+            "group": "A",
+            "dni": 44444444,
+            "direccion": "Los lirios 203"
+        },
+        {
+            "id": 9,
+            "name": "Isabela",
+            "surname": "Vega",
+            "email": "IsVe@gmail.com",
+            "number": 3432222230,
+            "hour": "06:00hs a 14:00hs",
+            "group": "A",
+            "dni": 44444444,
+            "direccion": "Los lirios 203"
+        }
+    ]
 }
-
-
-
 
